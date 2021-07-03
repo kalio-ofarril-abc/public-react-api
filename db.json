@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "3d62105b-07f1-45cf-9621-93a7f9b88c84",
+      "name": "Kalio",
+      "email": "kalio.ofvil@gmail.com"
+    },
+    {
+      "id": "9bbd3a51-bb8a-45e9-8b14-7386702016e4",
+      "name": "Pogo",
+      "email": "pogo.loco@gmail.com"
+    },
+    {
+      "id": "c3aad998-32b2-4430-a0c1-b7659aab22e3",
+      "name": "Vanna",
+      "email": "vanna.sexy@gmail.com"
+    },
+    {
+      "id": "451aa63e-5475-4340-be3c-154eb1be98d7",
+      "name": "José Einstein",
+      "email": "gen.rel@gmail.com"
+    }
+  ]
+}
