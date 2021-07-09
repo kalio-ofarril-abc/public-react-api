@@ -1,24 +1,60 @@
 {
   "contacts": [
     {
-      "id": "3d62105b-07f1-45cf-9621-93a7f9b88c84",
+      "userId": "3d62105b-07f1-45cf-9621-93a7f9b88c84",
       "name": "Kalio",
       "email": "kalio.ofvil@gmail.com"
     },
     {
-      "id": "9bbd3a51-bb8a-45e9-8b14-7386702016e4",
+      "userId": "9bbd3a51-bb8a-45e9-8b14-7386702016e4",
       "name": "Pogo",
       "email": "pogo.loco@gmail.com"
     },
     {
-      "id": "c3aad998-32b2-4430-a0c1-b7659aab22e3",
+      "userId": "c3aad998-32b2-4430-a0c1-b7659aab22e3",
       "name": "Vanna",
       "email": "vanna.sexy@gmail.com"
     },
     {
-      "id": "451aa63e-5475-4340-be3c-154eb1be98d7",
+      "userId": "451aa63e-5475-4340-be3c-154eb1be98d7",
       "name": "José Einstein",
       "email": "gen.rel@gmail.com"
+    }
+  ],
+  "stories": [
+    {
+      "userid": "9bbd3a51-bb8a-45e9-8b14-7386702016e4",
+      "storyid": "teststoryid2" ,
+      "title": "Scary Story 2",
+      "date": "11/07/2021",
+      "storyDescription": "A very Scary Story",
+      "genre": "Horror",
+      "story": "Growing up, my bedroom was the only one that faced the front of the house/street. When I was about 8 or 9, I woke up to my dad calmly but firmly telling me to get up, go in the bathroom, and shut the door. I was annoyed because I was half asleep, but I listened. Apparently I was more tired than I realized, because I feel asleep on the bathroom floor. The next morning I asked my mom what happened. She seemed oblivious and confused. I looked at my dad like she was crazy, and I asked him why he had woken me up. He denied doing it. I was becoming frustrated to the point of tears, but I ultimately let it go.
+
+      Fast forward to college. I was home one break, and I decided to ask again. I had thought of that night off and on for years, and it still bothered me. This time, my dad goes, \"Ha! I was wondering if you even remembered that.\" Turns out that a lot of houses on our block were being vandalized and robbed all those years ago. Someone had broken into the garage and was inside the house. My room was partially over the garage. My dad heard it happen and quietly got me to safety. Police were called, the guy ran. He was never caught, however, and my parents didn't want a terrified kid on their hands, so for years they pretended like nothing had ever happened. It wasn't supernatural, but it was unsettling for sure."
+    },
+    {
+      "userid": "3d62105b-07f1-45cf-9621-93a7f9b88c84",
+      "storyid": "teststoryid" ,
+      "title": "Scary Story",
+      "date": "09/07/2021",
+      "storyDescription": "Forget monsters, people are terrifying. This camping story from Reddit user Morenapkinspls will solidify that.",
+      "genre": "Horror",
+      "story": "The scariest thing i've had happen while camping.
+      
+      So I live in eastern Oregon, and my mom lives in western Oregon. I went to visit her for the summer and she's very outdoorsy so we decided to take the 1 hour drive from her city to the coast. We end up at this free camp site at the top of this hill (huge foot hills of the coastal mountains, about a 25 minute drive from the top where the campsite is to the bottom where the main road was) and we were the only campers there.
+      
+      We relaxed for the rest of the day, made food, etc. A truck full of men drive up the hill and talk with my mom (idk what about, wasn't suspicious at the time) and they leave us.
+      
+      Fast forward to the middle of the night. I wake up to my mom sitting straight up in the tent. I wake easily so i heard her gasp and it woke me. As soon as she saw i was awake she put her hand over my mouth because I was starting to ask her what's wrong. It was dead silent and all of a sudden you hear footsteps RIGHT beside the tent. The little flap that covers the zipper was even moving.
+      
+      Thankfully my mom has quick wits and said very loudly, \"Kenny grab the gun\"
+      
+      Kenny is my dad, although that doesn't matter, and mind you he was not there, just us girls like i previously said.
+      
+      They left. No harm was done. Thank the lord for my momma.
+      
+      TL;DR: Two girls at a campsite alone, people outside tent in the middle of the night & my mom pulled some badassery."
     }
   ]
 }
